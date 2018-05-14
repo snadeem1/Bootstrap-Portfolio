@@ -1,4 +1,37 @@
-h1{
+body{
+    background-image: url(spring.png);
+}
+
+nav{
+    background-color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 100%;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color:#cccccc;
+    padding-bottom: -22px;
+    height: 65px;
+}
+.name{
     color: #ffffff;
     background: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 20px;
+    
+}
+img{
+    width: 130px;
+    height: 120px;
+}
+.container{
+    background-color: #ffffff;
+    border: solid;
+    border-color: #dddddd;
+    border-width: 0.1px;
+    margin-top: 40px;
+    max-width: 980px;
+}
+
+.page-header{
+    color: #4aaaa5;
 }
