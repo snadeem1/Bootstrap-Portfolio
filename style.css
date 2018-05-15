@@ -77,3 +77,35 @@ p{
     font-size: 12px;
     
  }
+
+ .ipad, .RPG, .Trivia, .Rutgers, .Rock{
+     height: 205px;
+     width: 274px;
+ }
+
+ .navbar-nav{
+     margin-left: 470px;
+ }
+
+ .post-content {
+    top:0;
+    left:0;
+    position: absolute;
+}
+
+.thumbnail{
+    position:relative;
+
+}
+
+h3{
+    background-color: #4aaaa5;
+    color: #ffffff;
+    width: 274px;
+    text-align: center;
+    padding: 15px;
+    position: absolute;
+    top: 137px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
