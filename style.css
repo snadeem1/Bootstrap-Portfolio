@@ -39,7 +39,7 @@ nav{
     text-align: center;
     text-decoration: none;
     background: #4aaaa5;
-    margin-left: 126px;
+    margin-left: 50%;
 }
 img{
     width: 150px;
@@ -94,7 +94,7 @@ p{
  }
 
  .navbar-nav{
-     margin-left: 470px;
+    margin-right: 13%;
  }
 
  .post-content {
