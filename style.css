@@ -96,7 +96,7 @@ p{
     
  }
 
- .word, .crystal, .Trivia, .giphy, .train, .Pho, .node, .bamazon{
+ .word, .crystal, .Trivia, .giphy, .train, .Pho, .node, .bamazon, .friend{
      height: 205px;
      width: 274px;
  }
@@ -175,7 +175,7 @@ button{
       background: #fff;
       border: 1px solid #ddd;
     }
-    .word, .crystal, .Trivia, .giphy, .train, .Pho, h3, .bamazon{
+    .word, .crystal, .Trivia, .giphy, .train, .Pho, h3, .bamazon, .friend{
       width: 300px;
       
      
@@ -215,7 +215,7 @@ button{
       font-size: 45px;
     }
     
-    .word, .crystal, .Trivia, .giphy, .train, .Pho, .bamazon{
+    .word, .crystal, .Trivia, .giphy, .train, .Pho, .bamazon, .friend{
       width: 280px;
     }
     }
