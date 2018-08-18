@@ -96,7 +96,7 @@ p{
     
  }
 
- .word, .crystal, .Trivia, .giphy, .train, .Pho, .node, .bamazon, .friend{
+ .word, .crystal, .Trivia, .giphy, .train, .Pho, .node, .bamazon, .friend, .Burger{
      height: 205px;
      width: 274px;
  }
@@ -175,7 +175,7 @@ button{
       background: #fff;
       border: 1px solid #ddd;
     }
-    .word, .crystal, .Trivia, .giphy, .train, .Pho, h3, .bamazon, .friend{
+    .word, .crystal, .Trivia, .giphy, .train, .Pho, h3, .bamazon, .friend, .Burger{
       width: 300px;
       
      
